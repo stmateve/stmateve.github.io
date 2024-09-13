@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stmateve.github.io/sitemap.html.gz
+Sitemap: https://stmateve.github.io/app/sitemap.html.gz
+Sitemap: https://stmateve.github.io/assets/sitemap.html.gz
+Sitemap: https://stmateve.github.io/css/sitemap.html.gz
+Sitemap: https://stmateve.github.io/includes/sitemap.html.gz
+Sitemap: https://stmateve.github.io/item/sitemap.html.gz
+Sitemap: https://stmateve.github.io/src/sitemap.html.gz
